@@ -1,0 +1,2 @@
+D:\Programação\ReajusteSalario\Debug\ReajusteSalario.exe
+D:\Programação\ReajusteSalario\Debug\ReajusteSalario.pdb
